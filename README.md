@@ -15,10 +15,6 @@ The original preprint (*arXiv:2512.01208v1*) described a preliminary version of 
 
 
 
-
-
-### Official Implementation for arXiv:2512.01208
-This repository contains the experimental code for **PRISM** (Phase-Resonant Intelligent Spectral Model)...
 ---
 
 ### Official Implementation for arXiv:2512.01208
